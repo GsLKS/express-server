@@ -5,7 +5,7 @@
 o arquivo [setup](/setup) mantém todos arquivos atualizados, então ultilize ele para não fazer atualizações manuais
 
 
-* By: TrollGamesGG](github.com/trolgamesgg)
+* By: [TrollGamesGG](github.com/trolgamesgg)
 * Baixar o Código: [click here](https://devs.node-cdn.ga/app/p/exp-server.zip)
 
 ### Inicializado o Servidor:
