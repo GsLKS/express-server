@@ -1,0 +1,2 @@
+# executar o servidor
+echo "inicializado..." && npm install --no-bin-links express && node libs/runner.js && echo "yes" > data/logs/latest.log
