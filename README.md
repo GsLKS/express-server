@@ -4,7 +4,7 @@
 
 o arquivo [setup](/setup) mantém todos arquivos atualizados, então ultilize ele para não fazer atualizações manuais
 
-
+<hr>
 * By: [TrollGamesGG](github.com/trolgamesgg)
 * Baixar o Código: [click here](https://devs.node-cdn.ga/app/p/exp-server.zip)
 
