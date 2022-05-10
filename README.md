@@ -1,4 +1,13 @@
-<p align="center"><img src="https://o.remove.bg/downloads/87ff13de-babc-4661-a700-313ec21a559a/srv-removebg-preview.png"></p>
+<!-- <p align="center"><img src="https://o.remove.bg/downloads/87ff13de-babc-4661-a700-313ec21a559a/srv-removebg-preview.png"></p> --->
+
+# Projeto Descontínuado
+
+* Ultilize [CrabOS](https://github.com/crabstudios/crabos)
+
+* Nota: não oferecemos mas suporte a este projeto.
+
+
+<hr>
 
 # Express Server
 
